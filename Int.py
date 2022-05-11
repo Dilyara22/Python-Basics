@@ -1,0 +1,9 @@
+my_number=13
+print(my_number)
+print(my_number+1)
+print(my_number-1)
+print(my_number*2)
+print(my_number/2)
+print(my_number//3)
+print(my_number%4)
+print(type(my_number))
